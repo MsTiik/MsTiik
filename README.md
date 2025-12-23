@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rene Pupala
+Hi! 👋🏼 My name is Rene Pupala 
 ====================================================================================================================================
 
-Product Manager
+Product Manager | Muslim Founder
 ---------------
 
-Muslim founder. I have a strong Computer Science background, but my day-to-day job hasn't involved much coding at all for the past couple of years. I have recently started working on Salah Flow with my wife, which has turned into a bit of a passion project, so most of my spare time has been going towards that. Vibe Engineering has made coding so much more fun for me, so im playing around and experimenting with whatever I find interesting.
+I have a strong background in Computer Science, but my day-to-day job hasn't involved much coding for the past couple of years. I have recently started working on Salah Flow with my wife, which has turned into a passion project, so most of my spare time has been going towards that. Vibe Engineering has made coding so much more fun for me, so im playing around and experimenting with whatever I find interesting.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [rene@salahflow.com](mailto:rene@salahflow.com)
