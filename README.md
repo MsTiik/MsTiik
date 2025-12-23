@@ -4,7 +4,7 @@ Hi! 👋🏼 My name is Rene Pupala
 Product Manager | Muslim Founder
 ---------------
 
-I have a strong background in Computer Science, but my day-to-day job hasn't involved much coding for the past couple of years. I kind of thrive at the intersection of tech and people, hence why I wanted to become a technology consultant. AI tools & specifically Vibe Engineering have made coding fun again, so im playing around and experimenting with whatever I find interesting. I have recently started working on Salah Flow with my wife, which has turned into a passion project, so most of my spare time has been going towards that. 
+Slovakian Revert. I have a strong background in Computer Science, but my day-to-day job hasn't involved much coding for the past couple of years. I kind of thrive at the intersection of tech and people, hence why I wanted to become a technology consultant. AI tools & specifically Vibe Engineering have made coding fun again, so im playing around and experimenting with whatever I find interesting. I have recently started working on Salah Flow with my wife, which has turned into a passion project, so most of my spare time has been going towards that. 
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [rene@salahflow.com](mailto:rene@salahflow.com)
