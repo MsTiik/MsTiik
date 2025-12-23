@@ -21,8 +21,3 @@ I have a strong background in Computer Science, but my day-to-day job hasn't inv
 <a href="https://www.x.com/MsTiik4L" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MsTiik4L?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
 /></a>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MsTiik"><img src="https://github-readme-stats.vercel.app/api?username=MsTiik&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="MsTiik's GitHub stats" /></a>
