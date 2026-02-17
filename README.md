@@ -8,7 +8,7 @@ Slovakian Revert. I have a strong background in Computer Science, but my day-to-
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [rene@salahflow.com](mailto:rene@salahflow.com)
-* 🚀  I'm currently working on FrameCoach & [Salah Flow](http://salahflow.com)
+* 🚀  I'm currently working on [FrameCoach](https://framecoach.io) & [Salah Flow](https://salahflow.com)
 * 👥  I'm looking to collaborate on interesting muslim tech, inclusive tech or tech for good projects
 
 <p align="left">
