@@ -1,13 +1,13 @@
 Hi! 👋🏼 My name is Rene Pupala 
 ====================================================================================================================================
 
-Product Manager | Muslim Founder
+Product Engineer/ Manager | Muslim Founder
 ---------------
 
-Slovakian Revert. I have a strong background in Computer Science, but my day-to-day job hasn't involved much coding in recent years. I thrive at the intersection of tech and people, hence why PM came so naturally to me. Agentic Engineering has genuinely made coding fun again, so im playing around and experimenting with whatever I find interesting. I have recently started working on Salah Flow with my wife, which has turned into a bit of a passion project, and I was also accepted into an accelerator at the start of the year, and so all of my spare time has shifted towards building [FrameCoach.io](https://framecoach.io) 
+Slovakian Revert. Strong CS background, but I've spent the last few years as a Senior Tech Consultant, living at the intersection of tech and people. Product thinking, customer research, stakeholder translation. That's my day job. Then Agentic Engineering pulled me back into building. Now I can't stop. Currently shipping [FrameCoach.io](https://framecoach.io), an AI Camera Coaching platform for filmmakers (accelerator-backed, currently in open beta), and [Salah Flow](https://salahflow.com), a prayer tracking app I'm building with my wife. If it's interesting, I'm probably already experimenting with it. 
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [rene@salahflow.com](mailto:rene@salahflow.com)
+* ✉️  You can contact me at [contact@framecoach.io](mailto:contact@framecoach.io) or [rene@salahflow.com](mailto:rene@salahflow.com)
 * 🚀  I'm currently working on [FrameCoach](https://framecoach.io) & [Salah Flow](https://salahflow.com)
 
 <p align="left">
