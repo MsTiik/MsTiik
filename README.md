@@ -1,22 +1,116 @@
-Hi! 👋🏼 My name is Rene Pupala 
-====================================================================================================================================
+# Hi, I'm Rene 👋🏼
 
-Product Engineer/ Manager | Muslim Founder
----------------
+> Product Engineer / Manager · Muslim Founder · Based in London
 
-Slovakian Revert. Strong CS background, but I've spent the last few years as a Senior Tech Consultant, living at the intersection of tech and people. Product thinking, customer research, stakeholder translation. That's my day job. Then Agentic Engineering pulled me back into building. Now I can't stop. Currently shipping [FrameCoach.io](https://framecoach.io), an AI Camera Coaching platform for filmmakers (accelerator-backed, currently in open beta), and [Salah Flow](https://salahflow.com), a prayer tracking app I'm building with my wife. If it's interesting, I'm probably already experimenting with it. 
+Slovakian Revert. CS background, then a few years as a Senior Tech Consultant —
+living at the intersection of tech and people. Product thinking, customer research,
+stakeholder translation. That was the day job. Then agentic engineering pulled me
+back into building, and now I can't stop.
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [contact@framecoach.io](mailto:contact@framecoach.io) or [rene@salahflow.com](mailto:rene@salahflow.com)
-* 🚀  I'm currently working on [FrameCoach](https://framecoach.io) & [Salah Flow](https://salahflow.com)
+I'm currently shipping **[FrameCoach](https://framecoach.io)** — an AI camera coach
+for filmmakers (accelerator-backed, on the App Store) — and
+**[Salah Flow](https://salahflow.com)**, a prayer tracker I'm building with my wife.
+If it's interesting, I'm probably already experimenting with it.
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
-</p>
+📫 [contact@framecoach.io](mailto:contact@framecoach.io) · [rene@salahflow.com](mailto:rene@salahflow.com)
 
-### Socials
+## What I'm shipping
 
-<p align="left"> <a href="https://www.github.com/MsTiik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/MsTiik4L" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/renepupala" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.x.com/MsTiik4L" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MsTiik4L?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
-/></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [FrameCoach](https://framecoach.io)
+
+**An AI camera coach for filmmakers.** Pro-mobile shooting
+*and* connected DSLR / mirrorless coaching in one app —
+translates creative intent ("protect highlights", "warm mood",
+"headroom feels off") into ranked, actionable adjustments,
+with one-tap auto-apply on supported cameras.
+
+<sub>`React Native` · `Expo` · `Swift / AVFoundation` · `TypeScript` · `Supabase` · `OpenAI` · `RevenueCat`</sub>
+
+<sub>🟢 Live on the App Store · iOS · Accelerator-backed</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤲🏼 [Salah Flow](https://salahflow.com)
+
+**An ad-free prayer tracker, built with my wife.** Helps you
+visualise your salah journey — calm, clarity, no clutter.
+Step into the flow.
+
+<sub>`Vite` · `React` · `TypeScript` · `Tailwind` · `Capacitor` · `Supabase`</sub>
+
+<sub>🟢 Live on the App Store</sub>
+
+</td>
+</tr>
+</table>
+
+## The lab
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔬 [Probe](https://github.com/MsTiik/Probe)
+Your AI product research & development team — agentic
+workflow for getting from idea to validated direction faster.
+
+<sub>`TypeScript`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📰 [Reddit Scrapper](https://github.com/MsTiik/Reddit_Scrapper)
+Mines Reddit for marketing pain points via GPT — built to
+fuel [FrameCoach](https://framecoach.io)'s growth experiments.
+
+<sub>`Python` · `OpenAI`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕌 [Quran Video Maker (qvm)](https://github.com/MsTiik/quran-video-maker-ffmpeg)
+A CLI that efficiently generates Quran verse videos —
+fast, scriptable, `ffmpeg`-powered.
+
+<sub>`C++` · `ffmpeg`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌙 [arabic-amar](https://github.com/MsTiik/arabic-amar)
+A gamified web app based on Ustadh Abdur Rahman's AMAR
+Arabic course.
+
+<sub>`TypeScript`</sub>
+
+</td>
+</tr>
+</table>
+
+## My stack
+
+**Languages** — `TypeScript` · `Python` · `Swift` · `C++`  
+**Frontend** — `React` · `React Native` · `Tailwind` · `shadcn/ui` · `Vite`  
+**Mobile** — `Expo` · `Capacitor` · `AVFoundation`  
+**Backend & data** — `Supabase` (Auth · Postgres · Edge Functions) · `Deno`  
+**AI / ML** — `OpenAI` · `PyTorch` · `whisper.rn` · `promptfoo`  
+**Product infra** — `RevenueCat` · `PostHog` · `Sentry` · `EAS`  
+**Design** — `Figma` · `Framer` · `Miro` · `Photoshop`
+
+<sub>**Past lives** — earlier in my career I shipped with `Java` · `PHP` · `Django` · `Node` · `jQuery` · `HTML/CSS` · `MongoDB`. Still happy in any of them.</sub>
+
+## Connect
+
+[![Website](https://img.shields.io/badge/-framecoach.io-f97316?style=for-the-badge&logo=safari&logoColor=white&labelColor=1c1917)](https://framecoach.io)
+[![X](https://img.shields.io/badge/-@MsTiik4L-1c1917?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MsTiik4L)
+[![LinkedIn](https://img.shields.io/badge/-Rene_Pupala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917)](https://linkedin.com/in/renepupala)
+[![Email](https://img.shields.io/badge/-contact@framecoach.io-1c1917?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@framecoach.io)
+
+<sub>If you're a filmmaker, a Muslim looking for a calmer prayer tracker, or someone shipping interesting things — I'd love to hear from you.</sub>
