@@ -25,14 +25,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: MsTiik
           filename: github-metrics.svg
-
-          # Numbers only (stars / commits / PRs / issues / contributed-to).
-          # Deliberately NOT `activity`/`repositories` so private repo names
-          # never leak into the public SVG.
-          base: header
           config_timezone: Europe/London
 
-          # Optional upgrade — a 3D contribution heatmap that also counts your
-          # private activity. Flip these to `yes` if you want it:
-          # plugin_isocalendar: no
-          # plugin_isocalendar_duration: full-year
+          # No base card — drops the vanity block (name / join date / followers).
+          base: ""
+
+          # The "better thing": total lines of code shipped (added / removed),
+          # aggregate only, so no private repo names ever appear in the image.
+          plugin_lines: yes
+
+          # Gold-on-ink theme to match the profile.
+          extras_css: |
+            svg { background: #1c1917 !important; color: #d6d3d1 !important; }
+            h1, h2, .title { color: #f59e0b !important; }
+            a, a:link, a:visited { color: #f59e0b !important; }
+            .field svg, .octicon { fill: #f59e0b !important; }
