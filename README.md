@@ -22,6 +22,10 @@ in production. Lots more coming. Take a peek at [askeric.io](https://askeric.io)
 
 <sub>🟢 Live pilot · Dubai</sub>
 
+## Contributions
+
+[![Rene's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=MsTiik&bg_color=1c1917&color=f59e0b&line=f59e0b&point=ffffff&area=true&area_color=f59e0b&hide_border=true)](https://github.com/MsTiik)
+
 ## Shipped & live
 
 <table>
