@@ -21,7 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # A personal access token with `repo` scope so PRIVATE contributions
-          # (askEric, FrameCoach, Salah Flow) count toward the numbers.
+          # (askEric, FrameCoach, Salah Flow) count toward the calendar.
           token: ${{ secrets.METRICS_TOKEN }}
           user: MsTiik
           filename: github-metrics.svg
@@ -30,13 +30,28 @@ jobs:
           # No base card — drops the vanity block (name / join date / followers).
           base: ""
 
-          # The "better thing": total lines of code shipped (added / removed),
-          # aggregate only, so no private repo names ever appear in the image.
-          plugin_lines: yes
+          # The "better thing": a full-year contribution calendar that counts
+          # your PRIVATE work. Account-level aggregate, so no repo name ever
+          # appears in the public image.
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-          # Gold-on-ink theme to match the profile.
+          # Gold-on-ink theme. The :root vars + fill overrides recolour the
+          # contribution cells from GitHub-green to a gold ramp.
           extras_css: |
             svg { background: #1c1917 !important; color: #d6d3d1 !important; }
             h1, h2, .title { color: #f59e0b !important; }
             a, a:link, a:visited { color: #f59e0b !important; }
             .field svg, .octicon { fill: #f59e0b !important; }
+            :root {
+              --color-calendar-graph-day-bg: #292524;
+              --color-calendar-graph-day-L1-bg: #fde68a;
+              --color-calendar-graph-day-L2-bg: #fbbf24;
+              --color-calendar-graph-day-L3-bg: #f59e0b;
+              --color-calendar-graph-day-L4-bg: #b45309;
+            }
+            [fill="#ebedf0"] { fill: #292524 !important; }
+            [fill="#9be9a8"] { fill: #fde68a !important; }
+            [fill="#40c463"] { fill: #fbbf24 !important; }
+            [fill="#30a14e"] { fill: #f59e0b !important; }
+            [fill="#216e39"] { fill: #b45309 !important; }
