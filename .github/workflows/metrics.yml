@@ -35,7 +35,7 @@ jobs:
           # appears in the public image. Flat (pure SVG) so it renders without
           # a headless browser, unlike the 3D isocalendar.
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 1
 
           # Gold-on-ink theme. The :root vars + fill overrides recolour the
           # contribution cells from GitHub-green to a gold ramp.
