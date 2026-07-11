@@ -32,9 +32,10 @@ jobs:
 
           # The "better thing": a full-year contribution calendar that counts
           # your PRIVATE work. Account-level aggregate, so no repo name ever
-          # appears in the public image.
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # appears in the public image. Flat (pure SVG) so it renders without
+          # a headless browser, unlike the 3D isocalendar.
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
 
           # Gold-on-ink theme. The :root vars + fill overrides recolour the
           # contribution cells from GitHub-green to a gold ramp.
