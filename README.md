@@ -1,12 +1,10 @@
 # Hey, I'm Rene 👋🏼
 
 > **Product engineer · Muslim founder · London**  
-> Idea to shipped, usually faster than I should.
 
-CS background. The past few years working as a Senior Tech Consultant I've been at
-the intersection of tech and people. Product thinking, customer research, stakeholder
-translation. That was the day job. Then agentic engineering pulled me back into
-building, and now I can't stop.
+CS background. The past few years, working as a Senior Tech Consultant, I've been at
+the intersection of tech and people. Product, design, customer research, architecture, stakeholder
+translation. That's the day job. Agentic engineering reignited the engineering flame within me again.
 
 📫 [rene@eightyeight.ai](mailto:rene@eightyeight.ai)
 
@@ -15,12 +13,12 @@ building, and now I can't stop.
 ### 🏠 [askEric](https://askeric.io) · Proptech
 
 **A WhatsApp agent that turns property enquiries into warm, qualified leads for
-brokers.** In a live pilot with a design-partner brokerage in Dubai, already running
+brokers.** Pursuing pilots with design-partner brokerages in Dubai, already running
 in production. Lots more coming. Take a peek at [askeric.io](https://askeric.io).
 
 <sub>`Claude` · `Vercel AI SDK` · `Next.js` · `Neon` · `WhatsApp Cloud API` · `Groq Whisper`</sub>
 
-<sub>🟢 Live pilot · Dubai</sub>
+<sub>🟢 Live · Dubai</sub>
 
 ## Shipped & live
 
