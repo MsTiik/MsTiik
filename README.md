@@ -4,7 +4,7 @@
 
 CS background. The past few years, working as a Senior Tech Consultant, I've been at
 the intersection of tech and people. Product, design, customer research, architecture, stakeholder
-translation. That's the day job. Agentic engineering reignited the engineering flame within me again.
+translation. That's the day job. Now I'm back to engineering thanks to AI.
 
 📫 [rene@eightyeight.ai](mailto:rene@eightyeight.ai)
 
